@@ -34,7 +34,7 @@ Lee el punto 4 de la [guía de estilos de CSS propuesta por Google](https://goog
 **I. Separa las palabras en ID y nombres de clases con un guión.**
 * No concatenar palabras y abreviaturas en los selectores con ningún carácter (incluido ninguno) que no sean guiones, para mejorar la comprensión y la capacidad de escaneo.
 
-**J. Evitar hacer uso de los detectores de navegadores y "hacks de CSS.**
+**J. Evitar hacer uso de los detectores de navegadores y 'hacks de CSS.**
 
 **K. Ordenar alfabéticamente las declaraciones.**
 
@@ -54,7 +54,7 @@ Lee el punto 4 de la [guía de estilos de CSS propuesta por Google](https://goog
 **P. Separar una regla de otra por una línea en blanco.**
 
 **Q. Uso de comillas:**
-* Utiliza comillas simples ('') en lugar de dobles ("") para los selectores de atributos y los valores de la propiedad.
+* Utiliza comillas simples ('') en lugar de dobles ('') para los selectores de atributos y los valores de la propiedad.
 * No utilices comillas en los valores de URI (url ()).
 * Excepción: si necesita utilizar la regla @charset, utilices comillas dobles ya que las comillas simples no están permitidas.
 
@@ -64,7 +64,7 @@ Lee el punto 4 de la [guía de estilos de CSS propuesta por Google](https://goog
 
 ## **3. Valida el código de ambas páginas.**
 * Haz uso del validador de la W3C https://jigsaw.w3.org/css-validator/.
-* ¿Hay algún error o "warning" detectado en alguna de las hojas de estilo que ya has corregido?
+* ¿Hay algún error o 'warning' detectado en alguna de las hojas de estilo que ya has corregido?
 * Corrígelos y vuelve a validarlo.
 
 ## **Referencias:**

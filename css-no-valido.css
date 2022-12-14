@@ -1,92 +1,107 @@
-<!-- Esto es un CSS no válido -->
+@charset "UTF-8";
+@import url('https://www.google.com/css/maia.css');
 
- <!--[if IE]>
-      <link rel="stylesheet" href="css/ie.css" type="text/css"/>
- <![endif]-->
+/* Esto es un CSS no válido */
 
- #yee-1901 {}
- .button-green {}
- .clear {}
- #navigation {}
- .atr {}
+/*[if IE]*/
+/*<link rel='stylesheet' href='css/ie.css' type='text/css'/>*/
+/*[endif]*/
 
- ul#example {}
- div.error {}
+.yee {}
 
- .error_status {
- border-top-style: none;
- font-family: palatino, georgia, serif;
- font-size: 100%;
- line-height: 1.6;
- padding-bottom: 2em;
- padding-left: 1em;
- padding-right: 1em;
- padding-top: 0;
- }
- .demoimage {margin: 0px;
- padding: 1 1 0px;
- font-size: 0.8em;
- olor: #eebbcc;}
+.button {}
 
+.clear {}
 
- -moz-border-radius: 4px;
- -webkit-border-radius: 4px;
- background: fuchsia;
- border: 1px solid;
- text-align: center;
- text-indent: 2em;
- border-radius: 4px;
- color: black;
+.navigation {}
 
-   h1 {
-     background: #fff;
-     color: #444;
-   }
+.author {}
 
- .test {
-   display: block;
-   height: 100px
- }
+.example {}
 
- h3 {
-   font-weight:bold;
- }
+.error {}
 
- #video{
-   margin-top: 1em;
- }
+.error_status {
+  border-top-style: none;
+  font-family: palatino, georgia, serif;
+  font-size: 100%;
+  line-height: 1.6;
+  padding-bottom: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0;
+}
 
- #video
- {
-   margin-top: 1em;
- }
+.demoimage {
+  margin: 0px;
+  padding: 0;
+  font-size: 0.8em;
+  color: #eebbcc;
+}
 
- a:focus, a:active {
-   position: relative; top: 1px;
- }
+.moz {
+  border-radius: 4px;
+}
 
- html {
-   background: #fff;
- }
- body {
-   margin: auto;
-   width: 50%;
- }
+.webkit {
+  border-radius: 4px;
+  background: fuchsia;
+  border: 1px solid;
+  text-align: center;
+  text-indent: 2em;
+  border-radius: 4px;
+  color: black;
+}
 
- @import url("https://www.google.com/css/maia.css");
+h1 {
+  background: #fff;
+  color: #444;
+}
 
- html {
-   font-family: "open sans", arial, sans-serif;
- }
+.test {
+  display: block;
+  height: 100px
+}
 
- /* Header */
+h3 {
+  font-weight: bold;
+}
 
- #adw-header {}
+.video {
+  margin-top: 1em;
+}
 
- /* Footer */
+.video {
+  margin-top: 1em;
+}
 
- #adw-footer {}
+a:active,
+a:focus {
+  position: relative;
+  top: 1px;
+}
 
- /* Gallery */
+html {
+  background: #fff;
+}
 
- .adw-gallery {}
+body {
+  margin: auto;
+  width: 50%;
+}
+
+html {
+  font-family: 'open sans', arial, sans-serif;
+}
+
+/* Header */
+
+.adw-header {}
+
+/* Footer */
+
+.adw-footer {}
+
+/* Gallery */
+
+.adw-gallery {}
